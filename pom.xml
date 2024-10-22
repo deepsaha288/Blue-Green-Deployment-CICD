@@ -83,11 +83,11 @@
 		<distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url></url>
+            <url></url>  #put your nexus url
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url></url>
+            <url></url>  #put your nexus url
         </snapshotRepository>
     </distributionManagement>
 
